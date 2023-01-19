@@ -1,4 +1,4 @@
-Installation
+Solution Submission
 =====
 
 .. _submission:

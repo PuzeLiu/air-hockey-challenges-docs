@@ -1,4 +1,4 @@
-Installation
+Agent
 =====
 
 .. _agent:

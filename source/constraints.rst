@@ -1,4 +1,4 @@
-Installation
+Constraints
 =====
 
 .. _constraints:

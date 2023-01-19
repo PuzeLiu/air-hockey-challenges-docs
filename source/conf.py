@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Robot Air Hockey Challenge'
+copyright = '2022'
+author = 'Puze Liu'
 
 release = '0.1'
 version = '0.1.0'
