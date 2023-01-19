@@ -1,7 +1,6 @@
+.. _environments:
 Environments
 =====
-
-.. _environments:
 
 
 We provide environments for two type of robots: 
