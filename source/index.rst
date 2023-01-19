@@ -5,8 +5,8 @@ Documentation for Robot Air Hockey Challenge
 
 The challenges is consist of 3 stages. 
 
-.. list-table:: Title
-   :widths: 25 25 25 25
+.. list-table:: Environment Description
+   :widths: 15 25 25 25
    :header-rows: 1
 
    * - Stage
@@ -16,17 +16,17 @@ The challenges is consist of 3 stages.
    * - Stage 1
      - 3-DoF Planar Robot
      - Hit, Defend, Prepare
-     - Ideal Environments
+     - Ideal
    * - Stage 2
-     - KUKA iiwa14 LBR Robot
+     - KUKA iiwa14 LBR
      - Hit, Defend, Prepare
-     - Realistic Environment
+     - Realistic
    * - Stage 3
-     - KUKA iiwa14 LBR Robot
-     - Tournament
-     - Realistic Environment
+     - KUKA iiwa14 LBR
+     - Competition
+     - Realistic
 
-The goal of this document is to provide a basic introduction to the challenge's library, including :ref:`installation`, :ref:`environments`, :ref:`agent`, :ref:`constraints`, :ref:`submission`, and :ref:`replay`.
+The goal of this document is to provide a basic introduction to the challenge's library, including :ref:`installation`, :ref:`environments`, :ref:`environments`, :ref:`agent`, :ref:`constraints`, :ref:`submission`, and :ref:`replay`.
 
 We encourage teams to think outside the box and come up with unique strategies for their agents. We wish all teams the best of luck in the competition, and can't wait to see the innovative solutions that will be competing!
 
