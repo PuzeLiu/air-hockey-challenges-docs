@@ -1,7 +1,7 @@
+.. _agent:
+
 Agent
 =====
-
-.. _agent:
 
 Agent
 ------------

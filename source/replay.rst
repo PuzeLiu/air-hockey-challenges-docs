@@ -1,7 +1,7 @@
+.. _replay:
+
 Replay
 =====
-
-.. _replay:
 
 Replay
 ------------
